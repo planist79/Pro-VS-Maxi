@@ -1,6 +1,9 @@
 # Pro-VS-Maxi
 Custom Firmware for the Behringer Pro VS Mini 
 
+---
+
+
 If/When Behringer open sources the Firmware Packer for the Pro VS Mini the following which features could be implemented and which not?
 
 **As recent events have already proven a custom firmware is completely possible.**
