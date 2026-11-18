@@ -1,7 +1,7 @@
 # Pro VS Maxi
 Custom Firmware for the Behringer Pro VS Mini 
 
-<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/d7fb0864-66a0-45a9-9e51-18c8ae46b4b2" />
+<img width="400" height="299" alt="image" src="https://github.com/user-attachments/assets/d7fb0864-66a0-45a9-9e51-18c8ae46b4b2" />
 
 
 ---
