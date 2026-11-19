@@ -50,3 +50,6 @@ Even with total control over the firmware, a few limitations are baked into the 
 * **True Polyphonic Filters:** It is a 4-voice (5-voice after firmware 2.0) **paraphonic** synth—all digital voices sum together into a *single* analog low-pass filter chip. Firmware cannot give each voice its own analog filter (though it *could* implement per-voice digital filtering before the DAC if CPU cycles allow).
 * **CPU & RAM Ceiling:** The ARM chip inside the PRO-VS Mini is a budget microcontroller. While firmware 2.0 proved there was enough headroom to squeeze in an extra voice and chorus/effects, heavy DSP (like lush stereo reverbs or high-voice-count oversampled oscillators) would eventually hit a wall.
 * **No Velocity/Aftertouch on the Built-in Keys:** The capacitive touch keyboard is simple on/off touch pads, though custom firmware *could* easily add full velocity and aftertouch response when played via an external MIDI keyboard.
+
+
+Note: Behringer and Pro VS MINI are trademarks of Music Tribe. This is an independent community project, not affiliated with or endorsed by Music Tribe.
