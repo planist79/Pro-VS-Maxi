@@ -7,11 +7,12 @@ Custom Firmware for the Behringer Pro VS Mini
 ---
 
 
-If Behringer open sources the Firmware Packer for the Pro VS Mini, which of the following features could be implemented and which not?
+If Behringer open sources the Firmware Packer for the Pro VS Mini, the plan is to implement some long standing feature requests within a new custom firmware.
 
 **As recent events have already proven a custom firmware is completely possible.**
 
-In fact, Behringer’s recent open-source push (such as releasing the **PRO800-Firmware-Packer** along with schematics and memory layouts, as well as the open-source dev kits for the KICK, Ignite, and AQ64L) shows the exact blueprint for how this works. Notably, Behringer didn't even open-source the *factory firmware* of the Pro-800—they published the **firmware packer, memory map, and mainboard schematic**, which allowed third-party developers (like the `pro-8000` project) to write completely custom firmware from scratch and flash it safely via the protected factory bootloader.
+In fact, Behringer’s recent open-source push (such as releasing
+the **PRO800-Firmware-Packer** along with schematics and memory layouts, as well as the open-source dev kits for the KICK, Ignite, and AQ64L) shows the exact blueprint for how this works. Notably, Behringer didn't even open-source the *factory firmware* of the Pro-800—they published the **firmware packer, memory map, and mainboard schematic**, which allowed third-party developers (like the `pro-8000` project) to write completely custom firmware from scratch and flash it safely via the protected factory bootloader.
 
 If Behringer did the exact same thing for the **PRO-VS Mini** (releasing the packer/bootloader specs and pinout/schematic), developers could build a replacement firmware with substantial new features.
 
